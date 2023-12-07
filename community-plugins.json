@@ -9401,10 +9401,9 @@
       "repo": "clairefro/obsidian-chat-cbt-plugin"
     },
     {
-      "id": "daily-icalendar",
-      "name": "Daily ICalendar",
-      "author": "mmmykhailo",
-      "description": "View calendar events in daily notes.",
-      "repo": "mmmykhailo/obsidian-daily-icalendar"
-    }
+      "id": "lightread-sync",
+      "name": "lightread-sync-assistant",
+      "author": "flyer1b",
+      "description": "a plugin for lightread app to sync articles to obsidian",
+      "repo": "flyer1b/LightRead-master"
 ]
